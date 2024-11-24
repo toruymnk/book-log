@@ -11,6 +11,8 @@ assignees: toruymnk
 
 ## Print length
 
+pages
+
 ## Publisher
 
 ## Publication date
